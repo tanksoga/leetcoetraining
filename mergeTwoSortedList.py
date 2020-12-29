@@ -49,8 +49,4 @@ head = Solution().mergeTwoLists(l1,l2)
 
 while head:
     print(head.val)
-    head = head.next
-
-
-   
-        
+    head = head.next        
